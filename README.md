@@ -1,3 +1,6 @@
+﻿# TO RUN THIS PROGRAM
+Open up RobotMaker.sln in Visual Studio. Press F8 or the green arrow button. This program is written in C#.
+
 # BOT-O-MAT
 Use any language to complete this challenge. The implementation is up to you: it can be a command-line application or have a graphical interface.
 
